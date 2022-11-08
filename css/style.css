@@ -315,6 +315,14 @@ body{
 		padding-bottom: 40px;
 	}
 }
+@media (max-width:994px){
+	.body-main {
+		padding-top:80px;
+	
+	}
+	
+}
+
 @media(max-width: 990px){
 	.body-main__title {
 		font-size: 46px;
@@ -477,13 +485,6 @@ body{
 	}
 }
 
-@media (max-width:767px){
-	.body-main {
-		padding-top:80px;
-	
-	}
-	
-}
 @media (max-width:515px){
 	.body-main__benefits {
 		padding-top: 10px;
